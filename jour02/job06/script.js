@@ -3,8 +3,9 @@ function konami (){
     //Je commence par écouter un évenement
     document.addEventListener('keydown', keyHandler, false);
 
+    //Déclaration d'une variable
     let keyHandler = function (event){
-        
+
     }
 
     //Je déclare une variable qui va contenir une combinaison de touches du clavier
